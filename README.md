@@ -8,6 +8,6 @@
  
  * 🌱 Atualmente estou aprendendo Banco de Dados, JavaScript , TypeScript e React
 
- * 💞️ Adoro nas horas vagas práticar esportes, como um deles andar de skate
+ * 💞️ Gosto nas horas vagas práticar esportes, como um deles andar de skate
 
 - 📫 Email de contato: victorsignorinii@hotmail.com
