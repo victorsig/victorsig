@@ -3,7 +3,7 @@
  Tenho 20 anos e ultimamente estou cursando Engenharia de Software na 
  Universidade de Ribeirão Preto (UNAERP).
  
- * 👀 Na vida tenho como principais interesses evoluir a cada dia, tanto na minha vida pessoal
+ * 👀 Tenho como principais interesses evoluir a cada dia, tanto na minha vida pessoal
  como também na profissional, viver um dia de cada vez e ser feliz.
  
  * 🌱 Atualmente estou aprendendo Banco de Dados, JavaScript , TypeScript e React
