@@ -1,4 +1,4 @@
-## 👋 Olá, tudo bem? eu sou o Víctor Signorini
+## 👋 Olá, tudo bem? eu sou o Victor Signorini
  
  Tenho 21 anos e ultimamente estou cursando Engenharia de Software na 
  Universidade de Ribeirão Preto (UNAERP).
