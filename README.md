@@ -1,14 +1,12 @@
 ## 👋 Olá, tudo bem? eu sou o Victor Signorini
  
- Tenho 21 anos e ultimamente estou cursando Engenharia de Software na 
- Universidade de Ribeirão Preto (UNAERP).
+Sou graduado em Engenharia de Software e me especifiquei na área de Banco de Dados, com um maior foco em SQL Server. 
  
- * 👀 Tenho como principais interesses evoluir a cada dia, tanto na minha vida pessoal
- como também na profissional, viver um dia de cada vez e ser feliz.
+ * 👀 Sempre procurando me desenvolver em ambas as áreas da minha vida, tanto profissional como pessoal, aproveitando ao máximo cada etapa.
  
- * 🌱 Atualmente estou aprendendo Banco de Dados, JavaScript , TypeScript e React
+ * 🌱 Atualmente eestou aprofundando meus conhecimentos nos demais bancos, como Oracle, PostgreSQL, MySQL e MongoDB.
 
- * 💞️ Gosto nas horas vagas praticar esportes, como um deles andar de skate
+ * 💞️ Sou amante de esportes, estou treinando para me tornar maratonista.
 
 ##
 
