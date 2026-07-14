@@ -6,7 +6,7 @@ Sou graduado em Engenharia de Software e me especifiquei na área de Banco de Da
  
  * 🌱 Atualmente eestou aprofundando meus conhecimentos nos demais bancos, como Oracle, PostgreSQL, MySQL e MongoDB.
 
- * 💞️ Sou amante de esportes, estou treinando para me tornar maratonista.
+ * 💞️ Sou amante de esportes, gosto muito do mundo da corrida de rua e estou treinando para me tornar maratonista (01/2027).
 
 
 
